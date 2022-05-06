@@ -1,0 +1,12 @@
+D:\_Career\printstar\AddTwoNumberFromCommandLine\Kiran.Library.shapes\bin\Debug\Kiran.Library.shapes.dll
+D:\_Career\printstar\AddTwoNumberFromCommandLine\Kiran.Library.shapes\bin\Debug\Kiran.Library.shapes.pdb
+D:\_Career\printstar\AddTwoNumberFromCommandLine\Kiran.Library.shapes\obj\Debug\Kiran.Library.shapes.csproj.AssemblyReference.cache
+D:\_Career\printstar\AddTwoNumberFromCommandLine\Kiran.Library.shapes\obj\Debug\Kiran.Library.shapes.csproj.CoreCompileInputs.cache
+D:\_Career\printstar\AddTwoNumberFromCommandLine\Kiran.Library.shapes\obj\Debug\Kiran.Library.shapes.dll
+D:\_Career\printstar\AddTwoNumberFromCommandLine\Kiran.Library.shapes\obj\Debug\Kiran.Library.shapes.pdb
+E:\_Career\printstar\AddTwoNumberFromCommandLine\Kiran.Library.shapes\obj\Debug\Kiran.Library.shapes.csproj.AssemblyReference.cache
+E:\_Career\printstar\AddTwoNumberFromCommandLine\Kiran.Library.shapes\obj\Debug\Kiran.Library.shapes.csproj.CoreCompileInputs.cache
+E:\_Career\printstar\AddTwoNumberFromCommandLine\Kiran.Library.shapes\obj\Debug\Kiran.Library.shapes.dll
+E:\_Career\printstar\AddTwoNumberFromCommandLine\Kiran.Library.shapes\obj\Debug\Kiran.Library.shapes.pdb
+E:\_Career\printstar\AddTwoNumberFromCommandLine\Kiran.Library.shapes\bin\Debug\Kiran.Library.shapes.dll
+E:\_Career\printstar\AddTwoNumberFromCommandLine\Kiran.Library.shapes\bin\Debug\Kiran.Library.shapes.pdb
